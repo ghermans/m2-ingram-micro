@@ -2,7 +2,7 @@
 This package will integrate the Ingram Micro API to your Magento2 installation.
 
 ## Requirements
-- [Magento2.2.x](http://devdocs.magento.com/guides/v2.2/install-gde/bk-install-guide.html).
+- [Magento2.2](http://devdocs.magento.com/guides/v2.2/install-gde/bk-install-guide.html).
 - a valid account on the [Ingram Micro](https://developer.ingrammicro.com/#/home/login) API.
 
 ## Planned features
