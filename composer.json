@@ -1,6 +1,6 @@
 {
     "name": "idevelopment/m2-ingram-micro",
-    "description": " Magento2 Ingram Micro integration",
+    "description": "Magento2 Ingram Micro integration",
     "require": {
         "php": "^7.0 || ^7.1",
     }
