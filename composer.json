@@ -1,6 +1,7 @@
 {
     "name": "idevelopment/m2-ingram-micro",
     "description": "Magento2 Ingram Micro integration",
+    "license": "GPL-3.0",
     "require": {
         "php": "^7.0 || ^7.1"
     }
